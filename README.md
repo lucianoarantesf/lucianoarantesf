@@ -1,4 +1,4 @@
-## "Suave", sou o Luciano Arantes e isto sou eu  👋
+## "Suave", sou o Luciano Arantes 👋
 
 <div align="center">
   <a href="https://github.com/lucianoarantesf">
