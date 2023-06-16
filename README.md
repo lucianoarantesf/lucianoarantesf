@@ -17,12 +17,6 @@
 <br>
 
 </div>
-  
-  
-    - 💻 Estou trabalhando atualmente com Pascal, desenvolvendos APi (Horse and RDW) e aplicações Android. 
-    - 📫 Meu Email - 📧 arantes2014@outlook.com
-
-
 ## --
  <div style="display: inline_block" align="center"><br>
  <a href="https://www.instagram.com/user_arantes/" ><img align="center" alt="lucianoarantesf-Insta" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
