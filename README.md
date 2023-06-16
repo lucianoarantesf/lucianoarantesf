@@ -1,10 +1,6 @@
 ## Olá, sou o Luciano Arantes 👋
 
-<div align="center"> <a href="https://github.com/lucianoarantesf">
-
-
- 
-  ## --
+<div align="center">
  <div style="display: inline_block" align="center"><br>
     <img align="center" alt="lucianoarantesf-Delphi" height="35" width="35"src="https://www.embarcadero.com/images/logos/delphi-logo-1024.png">
        <img align="center" alt="lucianoarantesf-Lazarus" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/80/Lazarus_Logo_%28new%29.png">
