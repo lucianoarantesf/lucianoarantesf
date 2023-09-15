@@ -12,8 +12,6 @@
 
 </div>
  <div style="display: inline_block" align="center"><br>
- <a href="https://www.instagram.com/user_arantes/" ><img align="center" alt="lucianoarantesf-Insta" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
- </a> 
    <a href="https://www.linkedin.com/in/luciano-arantes-filho/" ><img align="center" alt="lucianoarantesf-Insta" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  </a> 
  </div>
