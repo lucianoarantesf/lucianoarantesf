@@ -73,8 +73,3 @@ Este repositório contém o meu Trabalho de Conclusão de Curso (TCC). É um pro
 * 🐧 [**manual-wsl-apache-cgi:**](https://github.com/lucianoarantesf/manual-wsl-apache-cgi) Guia prático de infraestrutura e configuração de servidores web em ambiente Linux/WSL.
 * 🎨 [**ThemeLazarus:**](https://github.com/lucianoarantesf/ThemeLazarus) Customizações de interface.
 
-## 🔥 GitHub Streak Stats
-
-| Preview |
-|:-------:|
-| [![GitHub Streak](https://streak-stats.demolab.com/?user=lucianoarantesf&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats) |
